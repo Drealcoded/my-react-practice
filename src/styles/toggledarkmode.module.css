@@ -1,0 +1,15 @@
+.dark{
+    padding: 10px;
+    background-color: #222222;
+}
+
+.dark p{
+    color: #fff;
+}
+.light{
+    padding: 10px;
+    background-color: #fff;
+}
+.light p{
+    color: #222222;
+}
